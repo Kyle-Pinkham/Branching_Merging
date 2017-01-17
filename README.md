@@ -15,3 +15,7 @@ same time.
 
 Consolidated branches only take up a single horizontal line in the gitKraken network. This is important because 
 that way you know which branches are on the same page and which ones are Different.
+
+By commiting this change, I am going to push this simple readme to the main server. Then, I should
+be able to merge every branch into master individually and push it into the origin master.
+This should ring true even if I add differences to the files.
