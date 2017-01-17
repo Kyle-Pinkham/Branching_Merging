@@ -19,3 +19,5 @@ that way you know which branches are on the same page and which ones are Differe
 By commiting this change, I am going to push this simple readme to the main server. Then, I should
 be able to merge every branch into master individually and push it into the origin master.
 This should ring true even if I add differences to the files.
+
+Why didn't it take my branch changes when I commited it to the web? 
