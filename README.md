@@ -23,3 +23,5 @@ This should ring true even if I add differences to the files.
 Why didn't it take my branch changes when I commited it to the web? 
 
 There must have been an issue because it worked when I rebased the master. A problem with the code maybe?
+
+Apparently it is just a matter of waiting for it to post to the server.
