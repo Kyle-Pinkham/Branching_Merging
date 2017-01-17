@@ -1,10 +1,12 @@
-<<<<<<< Lucio
-# Branching_Merging
-Branching and merging Assignment
+Warning: 
 
-Strong as the mountain!
-=======
->>>>>>> SL
-Lets break it DOWN
-Cheers love! The Cavalry's here!
-Strong as the mountain!
+Don't edit the same file to appropriate differences in branches or there will be so many 
+conflicts your head will spin. Make sure you save differences in the correct branches to 
+create them properly.
+
+This file is located in Every branch I am currently working on. If I am working on two branches, 
+or three branches at the same time, then I should commit this file seperately on each branch to ensure
+they all get it.
+
+In theory, this is what the master branch is for, as I shouldn't need to work on two branches at the 
+same time.
