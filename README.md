@@ -1,12 +1,5 @@
-<<<<<<< Lucio
-# Branching_Merging
-Branching and merging Assignment
+Warning: 
 
-Strong as the mountain!
-=======
->>>>>>> SL
-Lets break it DOWN
-Cheers love! The Cavalry's here!
-Strong as the mountain!
-
-This needs to be edited
+Don't edit the same file to appropriate differences in branches or there will be so many 
+conflicts your head will spin. Make sure you save differences in the correct branches to 
+create them properly.
