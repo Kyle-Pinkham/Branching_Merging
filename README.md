@@ -9,6 +9,7 @@ or three branches at the same time, then I should commit this file seperately on
 they all get it.
 
 In theory, this is what the master branch is for, as I shouldn't need to work on two branches at the 
+same time.
 
 --
 
